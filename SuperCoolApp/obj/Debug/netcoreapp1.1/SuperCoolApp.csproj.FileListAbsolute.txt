@@ -1,0 +1,11 @@
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.deps.json
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.runtimeconfig.json
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.runtimeconfig.dev.json
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.dll
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\bin\Debug\netcoreapp1.1\SuperCoolApp.pdb
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.csprojAssemblyReference.cache
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.csproj.CoreCompileInputs.cache
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.AssemblyInfoInputs.cache
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.AssemblyInfo.cs
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.dll
+C:\Users\v-vidhar\Desktop\CSharp\SuperCoolApp\SuperCoolApp\obj\Debug\netcoreapp1.1\SuperCoolApp.pdb
